@@ -66,7 +66,43 @@ Tato dvojkolejnost je důsledkem ústavního dělení **moci výkonné státu** 
 
 > **§ 2**
 >
-> *(1) Tento zákon se nevztahuje na [...] člena vlády [...], vedoucího Úřadu vlády [...], náměstka člena vlády [...], člena Rady pro rozhlasové a televizní vysílání, předsedu a člena Rady Českého telekomunikačního úřadu, předsedu a místopředsedu Úřadu pro ochranu hospodářské soutěže, [...] zaměstnance, který vykonává pouze pomocné, servisní nebo manuální práce ve správních úřadech [...]*
+> *(1) Tento zákon se nevztahuje na*
+>
+> *- a) člena vlády, jeho poradce a na zaměstnance, který vykonává další činnosti pro člena vlády, včetně zaměstnance zařazeného v kabinetu člena vlády,*
+>
+> *- b) vedoucího Úřadu vlády České republiky (dále jen „Úřad vlády“) a zaměstnance, který vykonává činnosti pro vedoucího Úřadu vlády,*
+>
+> *- c) náměstka člena vlády a zaměstnance, který vykonává činnosti pro náměstka člena vlády,*
+>
+> *- d) člena Rady pro rozhlasové a televizní vysílání,*
+>
+> *- e) předsedu a člena Rady Českého telekomunikačního úřadu,*
+>
+> *- f) předsedu a místopředsedu Úřadu pro ochranu hospodářské soutěže,*
+>
+> *- g) člena Rady Energetického regulačního úřadu,*
+>
+> *- h) předsedu a místopředsedu Úřadu pro ochranu osobních údajů,*
+>
+> *- i) předsedu a člena Úřadu pro dohled nad hospodařením politických stran a politických hnutí,*
+>
+> *- j) předsedu a místopředsedu Českého statistického úřadu,*
+>
+> *- k) zaměstnance, který vykonává pouze pomocné, servisní nebo manuální práce ve správních úřadech, a na zaměstnance, který pouze řídí, organizuje a kontroluje výkon pomocných, servisních nebo manuálních prací,*
+>
+> *- l) ředitele a inspektora Ústavu pro odborné zjišťování příčin leteckých nehod,*
+>
+> *- m) předsedu, místopředsedy a další členy Rady Národního akreditačního úřadu pro vysoké školství a členy Přezkumné komise Národního akreditačního úřadu pro vysoké školství,*
+>
+> *- n) člena Etické komise České republiky pro ocenění účastníků odboje a odporu proti komunismu,*
+>
+> *- o) člena Etické komise Státního ústavu pro kontrolu léčiv,*
+>
+> *- p) lékaře orgánu sociálního zabezpečení a odborného nelékařského zdravotnického pracovníka, který plní úkoly orgánu sociálního zabezpečení při posuzování zdravotního stavu a pracovní schopnosti,*
+>
+> *- r) předsedu a místopředsedu Národní sportovní agentury a člena rady Národní sportovní agentury,*
+>
+> *- s) ředitele Digitální a informační agentury.*
 >
 > *(2) Tento zákon se dále nevztahuje na zaměstnance zařazeného v bezpečnostním sboru, Generálním štábu Armády České republiky, Vojenské policii, Vojenském zpravodajství, krajských vojenských velitelstvích, Národním úřadu pro kybernetickou a informační bezpečnost a v Národním bezpečnostním úřadu.*
 
@@ -144,19 +180,51 @@ Naopak **územní samosprávné celky** (obce, kraje), **veřejnoprávní korpor
 >
 > *- a) přípravu návrhů právních předpisů a zajišťování právní činnosti,*
 >
-> *- b) přípravu mezinárodních smluv a předpisů Evropské unie [...],*
+> *- b) přípravu mezinárodních smluv a předpisů Evropské unie nebo jiné mezinárodní organizace,*
 >
-> *- c) přípravu návrhů koncepcí, strategií a programů, [...]*
+> *- c) přípravu návrhů koncepcí, strategií a programů,*
 >
-> *- n) přípravu a provádění správních úkonů včetně kontroly, [...]*
+> *- d) řízení a usměrňování činnosti jiných správních úřadů, organizačních složek státu, které nejsou správními úřady, nebo orgánů veřejné moci, které nejsou správními úřady,*
 >
-> *- s) řízení činností uvedených v písmenech a) až r), [...]*
+> *- e) vytváření a správu informačních systémů veřejné správy podle jiného zákona, s výjimkou provozních informačních systémů,*
+>
+> *- f) státní statistickou službu,*
+>
+> *- g) správu kapitoly státního rozpočtu vůči organizačním složkám státu a právnickým osobám, s výjimkou služebního úřadu, ve kterém je služba vykonávána,*
+>
+> *- h) ochranu utajovaných informací,*
+>
+> *- i) zabezpečování obrany státu,*
+>
+> *- j) zajišťování vnitřního pořádku a bezpečnosti,*
+>
+> *- k) obhajobu zahraničních zájmů České republiky a zájmů České republiky vyplývajících z jejího členství v Evropské unii nebo v jiné mezinárodní organizaci,*
+>
+> *- l) přípravu nebo realizaci dotační politiky,*
+>
+> *- m) přípravu nebo realizaci politiky výzkumu a vývoje,*
+>
+> *- n) přípravu a provádění správních úkonů včetně kontroly,*
+>
+> *- o) ochranu obyvatelstva, krizové řízení a integrovaný záchranný systém,*
+>
+> *- p) zadávání veřejných zakázek,*
+>
+> *- q) audit,*
+>
+> *- r) zajišťování organizačních věcí služby a správy služebních vztahů a odměňování státních zaměstnanců,*
+>
+> *- s) řízení činností uvedených v písmenech a) až r),*
+>
+> *- t) přípravu a vypracování odborných věcných podkladů k činnostem uvedeným v písmenech a) až d), g), k) až n) a p), s výjimkou podkladů spočívajících ve fyzikálních měřeních, chemických rozborech nebo porovnávání a určování technických parametrů,*
 >
 > *- u) přípravu k výkonu zahraniční služby.*
 >
 > *(2) Vláda stanoví nařízením obory služby.*
 >
 > *(3) Pro služební místo mohou být služebním předpisem stanoveny nejvýše 3 obory služby, a jde-li o služební místo představeného, nejvýše 4 obory služby.*
+>
+> *(4) Pro služební místo mohou být stanoveny pouze obory služby, které odpovídají na tomto služebním místě převažujícím a obvykle vykonávaným činnostem podle odstavce 1; pro služební místo musí být vždy stanoven obor služby, v němž je vykonávána nejnáročnější činnost podle odstavce 1.*
 
 **Výklad:**
 
@@ -202,13 +270,25 @@ Naopak **územní samosprávné celky** (obce, kraje), **veřejnoprávní korpor
 
 > **§ 7**
 >
-> *(1) Státnímu zaměstnanci zařazenému do 6. až 9. platové třídy přísluší služební označení referent, pokud mu služební orgán nepřiznal služební označení podle odstavce 2. Státnímu zaměstnanci zařazenému do 10. až 16. platové třídy přísluší služební označení rada [...]*
+> *(1) Státnímu zaměstnanci zařazenému do 6. až 9. platové třídy přísluší služební označení referent, pokud mu služební orgán nepřiznal služební označení podle odstavce 2. Státnímu zaměstnanci zařazenému do 10. až 16. platové třídy přísluší služební označení rada, pokud mu služební orgán nepřiznal služební označení podle odstavce 3.*
 >
-> *(2) Služební orgán může přiznat státnímu zaměstnanci [...] služební označení vyšší referent, plní-li zpravidla složité, odpovědné a namáhavé služební úkoly [...]*
+> *(2) Služební orgán může přiznat státnímu zaměstnanci zařazenému do 6. až 9. platové třídy služební označení vyšší referent, plní-li zpravidla složité, odpovědné a namáhavé služební úkoly, které vyžadují vyšší míru znalostí a dovedností.*
 >
-> *(3) Služební orgán může přiznat státnímu zaměstnanci [...] služební označení a) vyšší rada, b) odborný rada, c) vrchní rada, d) odborný garant [...]*
+> *(3) Služební orgán může přiznat státnímu zaměstnanci zařazenému v 10. až 16. platové třídě služební označení*
 >
-> *(4) V ministerstvu se místo služebního označení rada použije služební označení ministerský rada [...] V Úřadu vlády se [...] použije služební označení vládní rada [...]*
+> *- a) vyšší rada, plní-li zpravidla složité, odpovědné a namáhavé služební úkoly, které vyžadují vyšší míru znalostí a dovedností,*
+>
+> *- b) odborný rada, plní-li zpravidla nejsložitější, nejodpovědnější a nejnamáhavější služební úkoly, které vyžadují nejvyšší míru znalostí a dovedností,*
+>
+> *- c) vrchní rada, koordinuje-li dlouhodobě nejnáročnější činnosti, jejichž výkon se na služebním místě požaduje, nebo*
+>
+> *- d) odborný garant, přísluší-li mu služební označení podle písmene b) nebo c) a podílí-li se na vzdělávání státních zaměstnanců podle tohoto zákona.*
+>
+> *(4) V ministerstvu se místo služebního označení rada použije služební označení ministerský rada, místo služebního označení vyšší rada se použije služební označení vyšší ministerský rada, místo služebního označení odborný rada se použije služební označení odborný ministerský rada, místo služebního označení vrchní rada se použije služební označení vrchní ministerský rada a místo služebního označení odborný garant se použije služební označení odborný ministerský garant. V Úřadu vlády se místo služebního označení rada použije služební označení vládní rada, místo služebního označení vyšší rada se použije služební označení vyšší vládní rada, místo služebního označení odborný rada se použije služební označení odborný vládní rada, místo služebního označení vrchní rada se použije služební označení vrchní vládní rada a místo služebního označení odborný garant se použije služební označení odborný vládní garant.*
+>
+> *(5) Služební označení podle odstavce 2 nebo 3 přiznává a odebírá služební orgán na návrh bezprostředně nadřízeného představeného; přitom vychází z výsledku služebního hodnocení státního zaměstnance.*
+>
+> *(6) Nejvyšší státní tajemník vydá služební předpis, kterým stanoví kariérní řád služby upravující podmínky pro přiznávání a odebírání služebního označení.*
 
 **Výklad:**
 
@@ -228,9 +308,31 @@ Naopak **územní samosprávné celky** (obce, kraje), **veřejnoprávní korpor
 >
 > *(1) Představeným je státní zaměstnanec, který je oprávněn vést podřízené státní zaměstnance, ukládat jim služební úkoly, organizovat, řídit a kontrolovat výkon jejich služby a dávat jim k tomu příkazy. Za představeného se považuje i fyzická osoba, která je oprávněna na základě zákona dávat státnímu zaměstnanci příkazy k výkonu služby; představeným může být i příslušník bezpečnostního sboru nebo voják z povolání.*
 >
-> *(2) Služební místa představených v ministerstvu nebo v Úřadu vlády a jejich služební označení jsou a) vrchní ředitel sekce, b) ředitel odboru, c) vedoucí oddělení.*
+> *(2) Služební místa představených v ministerstvu nebo v Úřadu vlády a jejich služební označení jsou*
 >
-> *(3) Služební místa představených v jiných správních úřadech [...] jsou a) vedoucí služebního úřadu, b) ředitel sekce, c) ředitel odboru, d) vedoucí oddělení.*
+> *- a) vrchní ředitel sekce,*
+>
+> *- b) ředitel odboru,*
+>
+> *- c) vedoucí oddělení.*
+>
+> *(3) Služební místa představených v jiných správních úřadech a jejich služební označení jsou*
+>
+> *- a) vedoucí služebního úřadu,*
+>
+> *- b) ředitel sekce,*
+>
+> *- c) ředitel odboru,*
+>
+> *- d) vedoucí oddělení.*
+>
+> *(4) Představeným je též vedoucí zastupitelského úřadu.*
+>
+> *(5) Vedoucím služebního úřadu je ten, kdo podle jiného zákona stojí v čele tohoto správního úřadu a tento úřad řídí, bez ohledu na to, zda je státním zaměstnancem.*
+>
+> *(6) Stanovené vzdělání představeného je odvozeno od nejnáročnější činnosti, jejíž výkon řídí nebo sám vykonává.*
+>
+> *(7) Příslušný člen vlády může stanovit, že vrchní ředitel sekce je oprávněn účastnit se místo člena vlády jednání schůze vlády a zastupovat jej na schůzi výboru nebo komise Poslanecké sněmovny včetně vyšetřovací komise, není-li výslovně požadována osobní účast člena vlády, nebo na schůzi výboru nebo komise Senátu; přitom se považuje za náměstka člena vlády.*
 
 **Výklad:**
 
@@ -353,9 +455,21 @@ Tyto úkoly v rámci Úřadu vlády plní **sekce pro státní službu** v čele
 
 > **§ 17**
 >
-> *(1) Systemizace je souborem údajů o počtu služebních míst klasifikovaných platovými třídami a objemu prostředků na platy státních zaměstnanců a zaměstnanců na služebních místech. [...] stanoví pro každý služební úřad a) počet služebních míst státních zaměstnanců, kteří nejsou představenými, klasifikovaných platovými třídami, b) počet služebních míst představených klasifikovaných platovými třídami, c) objem prostředků na platy [...], d) počet služebních míst, u kterých se stanoví zákaz konkurence.*
+> *(1) Systemizace je souborem údajů o počtu služebních míst klasifikovaných platovými třídami a objemu prostředků na platy státních zaměstnanců a zaměstnanců na služebních místech. Systemizace vychází ze závazných pravidel pro organizaci služebních úřadů tak, aby byl zajištěn řádný výkon působnosti služebního úřadu, a stanoví pro každý služební úřad*
 >
-> *(3) Systemizaci schvaluje vláda na následující kalendářní rok. [...]*
+> *- a) počet služebních míst státních zaměstnanců, kteří nejsou představenými, klasifikovaných platovými třídami,*
+>
+> *- b) počet služebních míst představených klasifikovaných platovými třídami,*
+>
+> *- c) objem prostředků na platy státních zaměstnanců a zaměstnanců na služebních místech,*
+>
+> *- d) počet služebních míst, u kterých se stanoví zákaz se po skončení služebního poměru přímo nebo nepřímo podílet na podnikání nebo jiné činnosti podnikatelů nebo být jejich společníkem nebo členem v oboru, který je shodný s příslušným oborem služby, nebo být v pracovním nebo obdobném poměru k podnikateli v takovém oboru (dále jen „zákaz konkurence“).*
+>
+> *(2) Návrh systemizace vypracuje Úřad vlády v dohodě s Ministerstvem financí na základě návrhů služebních orgánů, které mu je v termínu stanoveném Úřadem vlády předkládají prostřednictvím příslušných ústředních správních úřadů. Při vypracování návrhu systemizace ministerstva nebo jemu podřízeného služebního úřadu se postupuje v součinnosti s příslušným členem vlády, v případě systemizace Úřadu vlády v součinnosti s vedoucím Úřadu vlády s výjimkou části systemizace týkající se státních zaměstnanců zařazených v útvaru podřízeném členovi vlády, kdy se postupuje v součinnosti s tímto členem vlády, a části systemizace týkající se státních zaměstnanců zařazených v sekci pro státní službu, kdy se postupuje v součinnosti s nejvyšším státním tajemníkem.*
+>
+> *(3) Systemizaci schvaluje vláda na následující kalendářní rok. Návrh systemizace předkládá vládě předseda vlády. Vláda je oprávněna upravit v souvislosti se schvalováním systemizace organizační strukturu služebního úřadu.*
+>
+> *(4) Není-li systemizace schválena do 31. prosince, použije se pro následující kalendářní rok dosavadní systemizace.*
 >
 > *(5) Služební místa a finanční prostředky na platy státních zaměstnanců podle schválené systemizace nelze použít pro jiný účel.*
 
@@ -390,7 +504,7 @@ Organizační strukturu (rozdělení úřadu na sekce, odbory, oddělení) schva
 
 > **§ 20** *Služba se vykonává ve služebním poměru na dobu neurčitou nebo na dobu určitou.*
 >
-> **§ 21** *(1) Státní zaměstnanci vykonávají službu zpravidla ve služebním poměru na dobu neurčitou. (2) Do služebního poměru na dobu určitou lze přijmout osobu, je-li třeba nahradit dočasně nepřítomného zaměstnance. (3) Další případy [...] stanoví vláda nařízením.*
+> **§ 21** *(1) Státní zaměstnanci vykonávají službu zpravidla ve služebním poměru na dobu neurčitou. (2) Do služebního poměru na dobu určitou lze přijmout osobu, je-li třeba nahradit dočasně nepřítomného zaměstnance. (3) Další případy, ve kterých lze s ohledem na zvláštní povahu služby přijmout osobu do služebního poměru na dobu určitou, stanoví vláda nařízením.*
 
 **Výklad:**
 
@@ -484,7 +598,13 @@ Toto pravidlo je v souladu s eurokonformním výkladem směrnice 1999/70/ES o pr
 
 #### § 29 — Zkušební doba
 
-> **§ 29** *(1) Státnímu zaměstnanci se při přijetí do služebního poměru stanoví zkušební doba v délce 6 měsíců. [...]*
+> **§ 29**
+>
+> (1) Státnímu zaměstnanci se při přijetí do služebního poměru stanoví zkušební doba v délce 6 měsíců. Zkušební doba se prodlužuje o pracovní dny státního zaměstnance, v nichž v průběhu zkušební doby neodsloužil celou směnu z důvodu překážky ve službě, čerpání dovolené nebo neomluveného zameškání služby.
+>
+> (2) Státnímu zaměstnanci se při přijetí do služebního poměru a zařazení na služební místo, na kterém ke dni bezprostředně předcházejícímu vzniku služebního poměru konal práci v pracovním poměru podle § 178, a jehož zkušební doba stanovená podle § 178 odst. 3 již uplynula, zkušební doba podle odstavce 1 nestanoví. Pokud tomuto státnímu zaměstnanci zkušební doba dosud neuplynula, stanoví se mu zkušební doba podle odstavce 1 ve zkrácené délce odpovídající délce dosud neuplynulé zkušební doby v pracovním poměru.
+>
+> (3) Služební orgán může podle odstavce 2 postupovat obdobně i u státního zaměstnance, který ke dni bezprostředně předcházejícímu vzniku služebního poměru konal práci v pracovním poměru podle § 178 v témže služebním úřadu na jiném služebním místě.
 
 **Výklad:**
 
@@ -531,7 +651,11 @@ Předpoklady podle § 25 odst. 1 musí státní zaměstnanec splňovat **po celo
 >
 > *(2) Obecnou část úřednické zkoušky je státní zaměstnanec povinen úspěšně vykonat nejpozději do 9 měsíců ode dne vzniku služebního poměru.*
 >
-> *(3) Zvláštní část úřednické zkoušky [...] je státní zaměstnanec povinen úspěšně vykonat nejpozději do a) 18 měsíců ode dne vzniku služebního poměru, [...]*
+> *(3) Zvláštní část úřednické zkoušky v oboru služby, v němž vykonává službu, je státní zaměstnanec povinen úspěšně vykonat nejpozději do*
+>
+> *- a) 18 měsíců ode dne vzniku služebního poměru, nebo*
+>
+> *- b) 18 měsíců ode dne, kdy státní zaměstnanec začal vykonávat službu v jiném nebo dalším oboru služby, přičemž tato lhůta se státnímu zaměstnanci, který již dříve vykonal úspěšně zvláštní část úřednické zkoušky podle písmene a), prodlužuje o dobu celodenních překážek ve službě, pro které státní zaměstnanec nekoná službu.*
 
 **Výklad:**
 

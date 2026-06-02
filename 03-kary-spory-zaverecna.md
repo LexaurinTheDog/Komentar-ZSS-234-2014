@@ -18,11 +18,11 @@
 >
 > *(1) O služebním poměru státního zaměstnance se vede osobní spis, který smí obsahovat jen písemnosti nezbytné pro služební poměr a hodnocení státního zaměstnance.*
 >
-> *(2) Obsahem osobního spisu jsou i osobní údaje státního zaměstnance, které ho identifikují, a údaje o jeho osobním stavu, způsobilosti k výkonu služby, bezúhonnosti a dosaženém vzdělání…*
+> *(2) Obsahem osobního spisu jsou i osobní údaje státního zaměstnance, které ho identifikují, a údaje o jeho osobním stavu, způsobilosti k výkonu služby, bezúhonnosti a dosaženém vzdělání, jež jsou potřebné pro služební poměr, zabezpečení řádného výkonu služby a uplatnění práv a povinností státního zaměstnance ve služebním poměru.*
 >
-> *(3) Státní zaměstnanec je povinen oznámit služebnímu orgánu změnu v osobních údajích obsažených v osobním spisu do 8 dnů…*
+> *(3) Státní zaměstnanec je povinen oznámit služebnímu orgánu změnu v osobních údajích obsažených v osobním spisu do 8 dnů ode dne, kdy k ní došlo nebo kdy se o ní dozvěděl.*
 >
-> *(4) Do osobního spisu mají právo nahlížet služební orgán, jakož i představení… Úřad vlády, orgán inspekce práce, Úřad pro ochranu osobních údajů, soud, státní zástupce, policejní orgán, NBÚ a zpravodajská služba.*
+> *(4) Do osobního spisu mají právo nahlížet služební orgán, jakož i představení, kteří jsou státnímu zaměstnanci nadřízeni. Právo nahlížet do osobního spisu, jakož i právo na pořízení opisu osobního spisu má Úřad vlády, orgán inspekce práce, Úřad pro ochranu osobních údajů, soud, státní zástupce, policejní orgán, Národní bezpečnostní úřad a zpravodajská služba.*
 >
 > *(5) Státní zaměstnanec a bývalý státní zaměstnanec mají právo nahlížet do svého osobního spisu, činit si z něj výpisy a na náklady služebního úřadu z něho požadovat opisy listin.*
 >
@@ -65,9 +65,25 @@ Státní zaměstnanec i bývalý zaměstnanec má **bezpodmínečné právo** na
 
 > **§ 154**
 >
-> *(1) Služební úřad, v němž státní zaměstnanec vykonává službu, vystaví státnímu zaměstnanci služební průkaz. Služební průkaz osvědčuje, že jeho držitel je státním zaměstnancem.* …
+> *(1) Služební úřad, v němž státní zaměstnanec vykonává službu, vystaví státnímu zaměstnanci služební průkaz. Služební průkaz osvědčuje, že jeho držitel je státním zaměstnancem. Služební průkaz obsahuje*
 >
-> *(2) Služební průkaz může dále obsahovat kontaktní elektronický čip…*
+> *- a) fotografii státního zaměstnance,*
+>
+> *- b) jméno, popřípadě jména, a příjmení, popřípadě i akademický titul státního zaměstnance,*
+>
+> *- c) evidenční číslo státního zaměstnance,*
+>
+> *- d) označení služebního úřadu, v němž státní zaměstnanec vykonává službu,*
+>
+> *- e) číslo služebního průkazu,*
+>
+> *- f) datum vystavení, popřípadě i datum platnosti služebního průkazu,*
+>
+> *- g) jiné údaje, stanoví-li tak jiný právní předpis.*
+>
+> *(2) Služební průkaz může dále obsahovat kontaktní elektronický čip nebo jiný nosič informací. Do kontaktního elektronického čipu nebo jiného nosiče informací lze nahrát pouze elektronické prostředky využívané při výkonu služby nebo v souvislosti s ním.*
+>
+> *Služební hodnocení*
 
 **Výklad:**
 
@@ -81,15 +97,35 @@ Služební průkaz má **dvojí funkci** — identifikační (vůči veřejnosti
 >
 > *(1) Státní zaměstnanec podléhá služebnímu hodnocení.*
 >
-> *(2) Služební hodnocení státního zaměstnance zahrnuje hodnocení výkonu služby z hlediska správnosti, rychlosti a samostatnosti v souladu se stanovenými individuálními cíli.* …
+> *(2) Služební hodnocení státního zaměstnance zahrnuje hodnocení výkonu služby z hlediska správnosti, rychlosti a samostatnosti v souladu se stanovenými individuálními cíli. Služební hodnocení představeného zahrnuje také hodnocení výkonu služby z hlediska organizování, řízení, kontrolování a hodnocení výkonu služby podřízených státních zaměstnanců a výkonu práce podřízených zaměstnanců.*
 >
-> *(3) Hodnoticí kritérium je klasifikováno jako a) plněné vysoko nad rámec… e) plněné nedostatečně.*
+> *(3) Hodnoticí kritérium je klasifikováno jako*
 >
-> *(4) Služební hodnocení musí obsahovat závěr o tom, zda státní zaměstnanec dosahoval ve službě a) vynikající… e) nevyhovující výsledky.*
+> *- a) plněné vysoko nad rámec nároků na ně kladených,*
+>
+> *- b) plněné nad rámec nároků na ně kladených,*
+>
+> *- c) plněné v rámci nároků na ně kladených,*
+>
+> *- d) plněné v rámci nároků na ně kladených s občasnými výhradami, nebo*
+>
+> *- e) plněné nedostatečně.*
+>
+> *(4) Služební hodnocení musí obsahovat závěr o tom, zda státní zaměstnanec dosahoval ve službě*
+>
+> *- a) vynikající výsledky,*
+>
+> *- b) velmi dobré výsledky,*
+>
+> *- c) dobré výsledky,*
+>
+> *- d) dostačující výsledky, nebo*
+>
+> *- e) nevyhovující výsledky.*
 >
 > *(6) První služební hodnocení se provede nejpozději do 6 měsíců ode dne vzniku služebního poměru, ne však dříve než po 60 odsloužených dnech.*
 >
-> *(9) Obsahuje-li služební hodnocení… závěr o tom, že ve službě dosahoval nevyhovujících výsledků, další služební hodnocení se provede vždy po uplynutí 60 odsloužených dnů…*
+> *(9) Obsahuje-li služební hodnocení státního zaměstnance závěr o tom, že ve službě dosahoval nevyhovujících výsledků, další služební hodnocení se provede vždy po uplynutí 60 odsloužených dnů ode dne seznámení státního zaměstnance s předchozím služebním hodnocením.*
 
 **Výklad:**
 
@@ -136,11 +172,13 @@ Tato matice zaručuje, že hodnocení nejvyšších služebních pozic vychází
 
 > **§ 156a**
 >
-> *(1) Státní zaměstnanec může podat proti služebnímu hodnocení námitky do 15 dnů ode dne seznámení… Námitky se podávají písemně služebnímu orgánu, musí z nich být zřejmé, proti jaké části služebního hodnocení směřují, a musí obsahovat odůvodnění nesouhlasu… a návrh způsobu úpravy.*
+> *(1) Státní zaměstnanec může podat proti služebnímu hodnocení námitky do 15 dnů ode dne seznámení se služebním hodnocením. Námitky se podávají písemně služebnímu orgánu, musí z nich být zřejmé, proti jaké části služebního hodnocení směřují, a musí obsahovat odůvodnění nesouhlasu se služebním hodnocením a návrh způsobu úpravy služebního hodnocení.*
 >
-> *(2) Služební orgán vyřídí podané námitky ve lhůtě 30 dnů… Proti upravenému služebnímu hodnocení nelze podat další námitky.*
+> *(2) Služební orgán vyřídí podané námitky ve lhůtě 30 dnů ode dne jejich doručení tak, že jim zcela nebo zčásti vyhoví a služební hodnocení upraví, nebo je zamítne. Námitky, z nichž není zřejmé, proti jaké části služebního hodnocení směřují, nebo námitky, u nichž chybí odůvodnění nesouhlasu se služebním hodnocením nebo návrh způsobu úpravy služebního hodnocení, služební orgán zamítne jako nedůvodné. Proti upravenému služebnímu hodnocení nelze podat další námitky.*
 >
-> *(3) Námitky proti služebnímu hodnocení vedoucího služebního úřadu… vyřizuje služební komise…*
+> *(3) Námitky proti služebnímu hodnocení vedoucího služebního úřadu, který nemá nadřízený služební úřad, vedoucího služebního úřadu, který je bezprostředně podřízen ministerstvu, nejvyššího státního tajemníka, státního tajemníka, vrchního ředitele sekce a personálního ředitele sekce pro státní službu vyřizuje služební komise postupem podle odstavce 2.*
+>
+> *Stížnost*
 
 **Výklad:**
 
@@ -158,13 +196,13 @@ Pro nejvyšší pozice je orgánem vyřizujícím námitky **služební komise**
 
 > **§ 157**
 >
-> *(1) Státní zaměstnanec může podat ve věcech výkonu služby a ve věcech služebního poměru, s výjimkou věcí podle § 159 odst. 2 písm. j), písemnou stížnost služebnímu orgánu…*
+> *(1) Státní zaměstnanec může podat ve věcech výkonu služby a ve věcech služebního poměru, s výjimkou věcí podle § 159 odst. 2 písm. j), písemnou stížnost služebnímu orgánu. Stížnost ve věci služebního posudku a potvrzení o službě může podat také bývalý státní zaměstnanec; při jejím vyřízení se postupuje podle odstavců 2 až 8 obdobně.*
 >
-> *(2) Stížnost… musí být podána nejpozději do 60 dnů ode dne, kdy se státní zaměstnanec dozvěděl…, nejpozději však do 12 měsíců…*
+> *(2) Stížnost státního zaměstnance musí být podána nejpozději do 60 dnů ode dne, kdy se státní zaměstnanec dozvěděl, že došlo ke skutečnosti, která je předmětem stížnosti, nejpozději však do 12 měsíců ode dne, kdy k této skutečnosti došlo.*
 >
-> *(7) Stížnost… musí být vyřízena písemně nejpozději do 60 dnů od jejího doručení.*
+> *(7) Stížnost státního zaměstnance musí být vyřízena písemně nejpozději do 60 dnů od jejího doručení. Stanovenou lhůtu lze překročit jen tehdy, nelze-li v jejím průběhu zajistit podklady potřebné pro vyřízení stížnosti.*
 >
-> *(8) Má-li státní zaměstnanec za to, že stížnost nebyla řádně vyřízena, může požádat… o přešetření způsobu vyřízení stížnosti. O přešetření… lze požádat pouze jednou, a to ve lhůtě do 15 dnů…*
+> *(8) Má-li státní zaměstnanec za to, že stížnost nebyla řádně vyřízena, může požádat nadřízeného představeného, služební orgán nebo nadřízený služební orgán, aby přešetřil způsob vyřízení stížnosti. O přešetření způsobu vyřízení stížnosti lze požádat pouze jednou, a to ve lhůtě do 15 dnů ode dne doručení písemného vyřízení stížnosti.*
 
 **Výklad:**
 
@@ -212,18 +250,81 @@ Tato ustanovení posilují kolektivně-ochrannou složku služebního poměru a 
 
 > **§ 159**
 >
-> *(1) Ustanovení o řízení ve věcech služby se vztahují na rozhodování o:*
-> *a) přijetí do služebního poměru,*
-> *b) zařazení na služební místo,*
-> *c) jmenování na služební místo představeného,*
-> *d) odměňování,*
-> *e) změně služebního poměru,*
-> *f) skončení služebního poměru,*
-> *g) povolení (kratší služební doby, zvýšení vzdělání, členství v orgánech PO, výkonu jiné výdělečné činnosti),*
-> *h) náhradě nákladů podle § 110,*
-> *i) zastavení poskytování úlev ve službě podle § 111.*
+> *(1) Ustanovení o řízení ve věcech služby se vztahují na rozhodování o*
 >
-> *(2) Ustanovení o řízení ve věcech služby ani ustanovení správního řádu o správním řízení se nevztahují na (taxativní výčet 21 výjimek pod písm. a–u)…*
+> *- a) přijetí do služebního poměru,*
+>
+> *- b) zařazení na služební místo,*
+>
+> *- c) jmenování na služební místo představeného,*
+>
+> *- d) odměňování,*
+>
+> *- e) změně služebního poměru,*
+>
+> *- f) skončení služebního poměru,*
+>
+> *- g) povolení*
+>
+> *- 1. kratší služební doby,*
+>
+> *- 2. zvýšení vzdělání státního zaměstnance na náklady služebního úřadu včetně volna k němu a zastavení poskytování tohoto volna,*
+>
+> *- 3. členství v řídícím nebo kontrolním orgánu právnické osoby provozující podnikatelskou činnost,*
+>
+> *- 4. výkonu jiné výdělečné činnosti než služby,*
+>
+> *- h) náhradě nákladů podle § 110,*
+>
+> *- i) zastavení poskytování úlev ve službě podle § 111.*
+>
+> *(2) Ustanovení o řízení ve věcech služby ani ustanovení správního řádu o správním řízení se nevztahují na*
+>
+> *- a) jmenování na služební místo představeného a odvolání z tohoto služebního místa, pokud spadá do působnosti vlády,*
+>
+> *- b) vyslání na služební cestu,*
+>
+> *- c) zastupování státního zaměstnance nebo představeného,*
+>
+> *- d) zproštění povinnosti zachovávat mlčenlivost,*
+>
+> *- e) povolení změny rozvržení služební doby a pružného rozvržení služební doby,*
+>
+> *- f) nařízení služební pohotovosti, služby přesčas nebo ve dnech pracovního klidu,*
+>
+> *- g) povolení služebního volna,*
+>
+> *- h) čerpání dovolené a dodatkové dovolené,*
+>
+> *- i) prohlubování vzdělání,*
+>
+> *- j) provádění služebního hodnocení státního zaměstnance a vyřizování námitek proti služebnímu hodnocení,*
+>
+> *- k) stanovení platu, je-li předmětem*
+>
+> *- 1. změna výše platového tarifu v důsledku změny výše platových tarifů stanovených nařízením vlády, nebo*
+>
+> *- 2. zařazení státního zaměstnance do vyššího platového stupně v důsledku dosažení délky započitatelné praxe stanovené pro vyšší platový stupeň,*
+>
+> *- l) poskytnutí odměny,*
+>
+> *- m) výběrové řízení a jmenování a odvolání člena výběrové komise,*
+>
+> *- n) nařízení výkonu služby z jiného místa,*
+>
+> *- o) jmenování a odvolání člena zkušební komise,*
+>
+> *- p) poskytnutí odbytného,*
+>
+> *- q) přeložení a změna platu v důsledku přeložení,*
+>
+> *- r) uložení písemného napomenutí a písemné výtky,*
+>
+> *- s) zrušení služebního poměru služebním orgánem ve zkušební době,*
+>
+> *- t) zrušení zařazení, převedení nebo jmenování služebním orgánem v osvědčovací době,*
+>
+> *- u) přiznávání a odebírání služebního označení.*
 
 **Výklad:**
 
@@ -290,11 +391,27 @@ ZSS volí konstrukci **subsidiárního použití správního řádu** (na rozdí
 
 > **§ 162a**
 >
-> *(1) Zřizuje se služební komise. Služební komise rozhoduje o odvolání ze služebního místa představeného podle § 60 odst. 1 písm. c) a § 60 odst. 2 nebo o skončení služebního poměru podle § 72 odst. 1 písm. b) nebo c), jde-li o vedoucího služebního úřadu, nejvyššího státního tajemníka, státního tajemníka, vrchního ředitele sekce nebo personálního ředitele sekce pro státní službu. Proti rozhodnutí služební komise není odvolání přípustné…*
+> *(1) Zřizuje se služební komise. Služební komise rozhoduje o odvolání ze služebního místa představeného podle § 60 odst. 1 písm. c) a § 60 odst. 2 nebo o skončení služebního poměru podle § 72 odst. 1 písm. b) nebo c), jde-li o vedoucího služebního úřadu, nejvyššího státního tajemníka, státního tajemníka, vrchního ředitele sekce nebo personálního ředitele sekce pro státní službu. Proti rozhodnutí služební komise není odvolání přípustné. Nadřízeným služebním orgánem služební komise ve věcech, v nichž rozhodla služební komise, je služební komise.*
 >
-> *(2) Služební komise má 5 členů, které jmenuje a odvolává vláda, z toho 2 členy na návrh prezidenta Nejvyššího kontrolního úřadu a 1 člena na návrh veřejného ochránce práv…*
+> *(2) Služební komise má 5 členů, které jmenuje a odvolává vláda, z toho 2 členy na návrh prezidenta Nejvyššího kontrolního úřadu a 1 člena na návrh veřejného ochránce práv. Předsedu služební komise jmenuje vláda z těch členů, které jmenovala bez návrhu.*
+>
+> *(3) Členem služební komise může být jmenována fyzická osoba, která*
+>
+> *- a) splňuje předpoklady pro přijetí do služebního poměru podle § 25 odst. 1 písm. a), c) a d),*
+>
+> *- b) má vysokoškolské vzdělání v magisterském studijním programu a*
+>
+> *- c) nevykonává žádnou funkci v politické straně nebo v politickém hnutí.*
+>
+> *(4) Alespoň 1 člen služební komise, který je jmenován vládou bez návrhu, musí mít vysokoškolské vzdělání získané řádným ukončením studia v magisterském studijním programu v oblasti práva.*
 >
 > *(5) Členové služební komise jsou jmenováni na funkční období 7 let. Nikdo nemůže být členem služební komise jmenován více než dvakrát za sebou.*
+>
+> *(6) Členství ve služební komisi je veřejnou funkcí. Vláda člena služební komise odvolá, pokud člen služební komise přestane splňovat podmínky podle odstavce 3 nebo pokud o odvolání požádá.*
+>
+> *(7) Služební komise přijímá usnesení většinou hlasů přítomných členů; při rovnosti hlasů je rozhodující hlas předsedy nebo předsedajícího. Člen služební komise se nesmí zdržet hlasování. Jednotlivými úkony v řízení, s výjimkou vydání rozhodnutí, mohou být pověřeni státní zaměstnanci vykonávající službu v Úřadu vlády, kteří nejsou členy služební komise; přitom jsou podřízeni pouze služební komisi.*
+>
+> *(8) Výkon působnosti služební komise odborně, organizačně, finančně a materiálně zabezpečuje Úřad vlády. Služební komise se pro tyto účely považuje za organizační jednotku Úřadu vlády. Za výkon funkce člena služební komise náleží odměna, jejíž výši stanoví vláda usnesením, a cestovní náhrady, které se poskytují ve výši a za podmínek stanovených zákoníkem práce, přičemž za pravidelné pracoviště člena služební komise se považuje jeho bydliště.*
 
 **Výklad:**
 
@@ -353,11 +470,11 @@ Nesplní-li účastník povinnost k peněžitému plnění uloženou rozhodnutí
 >
 > *(2) Odvolání nemá odkladný účinek. To neplatí při odvolání proti rozhodnutí o náhradě nákladů podle § 110.*
 >
-> *(3) Na návrh odvolatele, který podal oznámení podle zákona o ochraně oznamovatelů, může odvolací orgán přiznat odkladný účinek odvolání proti rozhodnutí, které by mohlo mít znaky odvetného opatření, nebo pozastavit jeho vykonatelnost…*
+> *(3) Na návrh odvolatele, který podal oznámení podle zákona o ochraně oznamovatelů, může odvolací orgán přiznat odkladný účinek odvolání proti rozhodnutí, které by mohlo mít znaky odvetného opatření, nebo pozastavit jeho vykonatelnost. Návrh na přiznání odkladného účinku nebo pozastavení vykonatelnosti lze podat pouze ve lhůtě pro podání odvolání. O návrhu na přiznání odkladného účinku nebo pozastavení vykonatelnosti rozhodne odvolací orgán bez zbytečného odkladu poté, kdy mu byl předán spis; proti tomuto rozhodnutí se nelze odvolat.*
 >
-> *(4) Odvolá-li se státní zaměstnanec proti rozhodnutí o odvolání ze služebního místa představeného, o skončení služebního poměru nebo o přiznání, zvýšení, snížení nebo odejmutí osobního příplatku, lze přezkoumat i služební hodnocení, které bylo podkladem…*
+> *(4) Odvolá-li se státní zaměstnanec proti rozhodnutí o odvolání ze služebního místa představeného, o skončení služebního poměru nebo o přiznání, zvýšení, snížení nebo odejmutí osobního příplatku, lze přezkoumat i služební hodnocení, které bylo podkladem pro vydání rozhodnutí. Pokud odvolací orgán shledá, že služební hodnocení je v rozporu s právními předpisy, po nabytí právní moci rozhodnutí o odvolání se provede nové služební hodnocení; původní služební hodnocení, ke kterému se nepřihlíží, se vyřadí z osobního spisu státního zaměstnance.*
 >
-> *(5) Odvolá-li se státní zaměstnanec proti rozhodnutí o odvolání ze služebního místa představeného nebo o skončení služebního poměru, lze přezkoumat i písemné napomenutí, které bylo podkladem…*
+> *(5) Odvolá-li se státní zaměstnanec proti rozhodnutí o odvolání ze služebního místa představeného nebo o skončení služebního poměru, lze přezkoumat i písemné napomenutí, které bylo podkladem pro vydání rozhodnutí. Pokud odvolací orgán shledá, že je písemné napomenutí v rozporu s právními předpisy, vyřadí se po nabytí právní moci rozhodnutí o odvolání z osobního spisu státního zaměstnance a nepřihlíží se k němu.*
 
 **Výklad:**
 
@@ -421,9 +538,11 @@ Pro **pracovní místa** (= místa zaměstnanců, kteří nevykonávají činnos
 
 > **§ 173**
 >
-> *(1) Náměstek člena vlády je zástupcem člena vlády. Náměstek člena vlády zastupuje člena vlády v rozsahu stanoveném členem vlády ve vztahu k působnosti služebního úřadu nebo úkolům svěřeným členovi vlády…*
+> *(1) Náměstek člena vlády je zástupcem člena vlády. Náměstek člena vlády zastupuje člena vlády v rozsahu stanoveném členem vlády ve vztahu k působnosti služebního úřadu nebo úkolům svěřeným členovi vlády, s výjimkou věcí, které vyhrazuje členovi vlády zákon. Zejména je oprávněn účastnit se místo člena vlády jednání schůze vlády a zastupovat jej na schůzi výboru nebo komise Poslanecké sněmovny včetně vyšetřovací komise, není-li výslovně požadována osobní účast člena vlády, nebo na schůzi výboru nebo komise Senátu.*
 >
-> *(3) Náměstek člena vlády je v pracovním poměru ke státu a jmenuje a odvolává jej příslušný člen vlády…*
+> *(2) Pracovní místo náměstka člena vlády není v organizačním uspořádání správního úřadu stupněm řízení.*
+>
+> *(3) Náměstek člena vlády je v pracovním poměru ke státu a jmenuje a odvolává jej příslušný člen vlády; náměstek člena vlády, který není pověřen řízením ministerstva, je zařazen v Úřadu vlády.*
 
 **Výklad:**
 
@@ -486,13 +605,11 @@ ZSS tu zcela využívá pracovněprávní terminologii, aby zachoval konsistenci
 
 ## Hlava VII — Použití pracovního poměru (§ 178)
 
-> **§ 178**
+> *(1) Pro ohrožení nemocí z povolání se použije § 347 odst. 1 zákoníku práce.*
 >
-> *(1) Služební orgán může obsadit služební místo osobou v pracovním poměru na dobu určitou… jestliže státní zaměstnanec dočasně nevykonává službu na služebním místě po dobu delší než 1 kalendářní měsíc.*
+> *(2) Právními a ostatními předpisy k zajištění bezpečnosti a ochrany zdraví při výkonu služby a pokyny k zajištění bezpečnosti a ochrany zdraví při výkonu služby se rozumějí předpisy a pokyny uvedené v § 349 odst. 1 a 2 zákoníku práce.*
 >
-> *(2) Je-li vážně ohrožen řádný výkon působnosti služebního úřadu, může služební orgán obsadit služební místo, s výjimkou služebního místa představeného, osobou v pracovním poměru na dobu určitou…, a to s trváním do doby, než bude toto místo obsazeno státním zaměstnancem postupem podle § 24 odst. 1 nebo 5, nejdéle však na 6 měsíců.*
->
-> *(5) Zaměstnanci uvedenému v odstavcích 1 a 2 se na jeho žádost umožní vykonat na náklady služebního úřadu obecnou část úřednické zkoušky a zvláštní část úřednické zkoušky pro obor služby stanovený pro jím obsazené služební místo…*
+> *(5) Pro doby, které se považují za výkon služby, se použije tento zákon a § 348 odst. 1 zákoníku práce.*
 
 **Výklad:**
 
@@ -562,7 +679,9 @@ Tato hlava digitalizuje komunikaci mezi státním zaměstnancem a služebním or
 
 > *(1) Státní zaměstnanec může činit úkon vůči služebnímu orgánu nebo jinému příslušnému orgánu podle tohoto zákona také prostřednictvím elektronického nástroje, umožňuje-li to služební orgán nebo jiný příslušný orgán.*
 >
-> *(2) Úkon učiněný… elektronickou poštou nemusí obsahovat podpis.*
+> *(2) Úkon učiněný státním zaměstnancem vůči služebnímu orgánu nebo jinému příslušnému orgánu elektronickou poštou nemusí obsahovat podpis.*
+>
+> *(3) Ustanovení odstavců 1 a 2 se použijí obdobně i pro právní jednání učiněné zaměstnancem v pracovním poměru vykonávajícím činnosti podle § 5.*
 
 **Výklad:**
 
@@ -648,9 +767,23 @@ Stávající vedoucí zaměstnanci na pozicích 2. stupně řízení nebo předs
 
 ### § 188 — Představený (klíčový § přechodu představených)
 
-> *(1) Dosavadní vedoucí zaměstnanec ve správním úřadu vykonávající činnosti obdobné činnostem podle § 5 se dnem 1. července 2015 považuje za státního zaměstnance ve služebním poměru na dobu neurčitou a představeného…*
+> *(1) Dosavadní vedoucí zaměstnanec ve správním úřadu vykonávající činnosti obdobné činnostem podle § 5 se dnem 1. července 2015 považuje za státního zaměstnance ve služebním poměru na dobu neurčitou a představeného; může vykonávat službu na služebním místě představeného, nejdéle však do doby, než bude toto služební místo obsazeno postupem podle tohoto zákona.*
 >
 > *(2) Zaměstnanec uvedený v odstavci 1, který ke dni 1. července 2015 pracuje jako vedoucí zaměstnanec 1. stupně řízení se považuje za představeného na služebním místě vedoucího oddělení, zaměstnanec uvedený v odstavci 1, který ke dni 1. července 2015 pracuje jako vedoucí zaměstnanec 2. stupně řízení, se považuje za představeného na služebním místě ředitele odboru.*
+>
+> *(3) Zaměstnanec uvedený v odstavci 1, který ke dni 1. července 2015 pracuje jako*
+>
+> *- a) náměstek vedoucího ústředního správního úřadu, který současně řídí sekci, nebo*
+>
+> *- b) vedoucí zaměstnanec 3. stupně řízení,*
+>
+> *se dnem nabytí účinnosti tohoto zákona považuje v ministerstvu nebo v Úřadu vlády za náměstka pro řízení sekce, v jiném správním úřadu za ředitele sekce.*
+>
+> *(4) Představený uvedený v odstavci 2 nebo 3 složí do 31. srpna 2015 služební slib před služebním orgánem; nesloží-li služební slib ve lhůtě, odmítne-li jej složit nebo jej složí s výhradou, služební poměr mu zanikne.*
+>
+> *(5) Je-li představený osobou podle § 33 odst. 1 nebo 2, učiní neprodleně právní jednání směřující k odstranění překážky podle § 33 odst. 1 nebo 2; neučiní-li tak, postupuje se podle § 33 odst. 4.*
+>
+> *(6) Služební orgán vyhlásí do 31. prosince 2015 výběrové řízení na služební místo náměstka pro řízení sekce nebo ředitele sekce; toto výběrové řízení se zpravidla dokončí do 30. června 2016. Na služební místo ředitele odboru a vedoucího oddělení vyhlásí služební orgán výběrové řízení nejpozději do 30. června 2016; toto výběrové řízení se zpravidla dokončí do 30. června 2017. K výběrovému řízení se mohou přihlásit státní zaměstnanci ve služebním poměru na dobu neurčitou, kteří vykonávají službu na služebním místě ve stejném oboru služby, v jakém je služební místo představeného, které má být obsazeno; ustanovení § 51 odst. 4 se použije obdobně.*
 
 **Fingovaný přechod** všech vedoucích zaměstnanců do služebního poměru k 1. 7. 2015 s přiřazením na konkrétní pozici představeného (vedoucí oddělení, ředitel odboru, ředitel sekce / náměstek pro řízení sekce). Povinnost **složit služební slib** do 31. 8. 2015 (jinak služební poměr zanikl).
 
