@@ -190,6 +190,11 @@ Námitky jsou **interním (kvasi-opravným) prostředkem** mimo režim řízení
 
 Pro nejvyšší pozice je orgánem vyřizujícím námitky **služební komise** (§ 162a) — kolektivní orgán s vyšší zárukou nestrannosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 Ad 18/2021 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700664) — 21. 4. 2022
+  > „Odkázání se v odvolání na veškeré námitky proti služebnímu hodnocení, které byly žalobkyní uplatněny podle ustanovení § 156a zákona č. 234/2014 Sb., o státní službě, … nemůže být pro rozsah odvolacího přezkumu určující … Podání opakovaných námitek proti opravnému hodnocení je ze zákona vyloučeno, konkrétně ustanovením § 156a odst. 2 poslední věta zákona o státní službě"
+
 ---
 
 ### §§ 157–158 — Stížnost
@@ -328,6 +333,11 @@ Tato ustanovení posilují kolektivně-ochrannou složku služebního poměru a 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 85/2019 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424719) — 26. 2. 2020
+  > „Rozhodování o náhradě újmy na zdraví nelze podřadit pod žádnou z položek tohoto výčtu, a jelikož tento výčet je zcela zjevně výčtem taxativním, nelze ani rozsah položek rozšiřovat. … Vést takové řízení vůbec nebylo v jeho působnosti, resp. pravomoci, a žádným podáním nebylo možno řízení v této věci u žalovaného zahájit"
+
 #### Pozitivní vymezení (odst. 1) — co je řízením
 
 V řízení ve věcech služby se rozhoduje o **nejdůležitějších životních okamžicích služebního poměru**: vzniku (přijetí, zařazení), trvání (jmenování představeným, změny, odměňování), a zániku (skončení). Také o vybraných povoleních a o nárocích na náhradu nákladů. Společné je, že jde o akty s materiálním dopadem do právní sféry zaměstnance.
@@ -454,9 +464,19 @@ Výjimka ze správního řádu, kde řízení standardně předchází sdělení
 
 Odst. 2 dovoluje **nové rozhodnutí** zrušující dřívější povolení (členství v orgánech PO, jiná výdělečná činnost, kratší služební doba), pominou-li důvody nebo se podstatně změní okolnosti — typický **rebus sic stantibus**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [17 Ad 18/2024 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743621) — 26. 5. 2025
+  > „… rozhodování ve věcech služby, ve kterém standardně může být dle § 165 odst. 1 služebního zákona vydáno rozhodnutí jako první úkon v řízení … Pokud by bylo možné samoúčelně napadat rozhodnutí vydaná jako první úkon v řízení z toho pouze na tom základě, že účastník neměl možnost nahlédnout do podkladů pro vydání rozhodnutí, pak by to znamenalo faktickou nemožnost vydávat rozhodnutí jako první úkon v řízení, protože se jedná o imanentní znak uvedeného procesního postupu"
+
 ### § 166 — Náhrada nákladů řízení
 
 Úspěšnému účastníkovi v odvolacím, obnoveném nebo přezkumném řízení náleží **náhrada nákladů od služebního úřadu**. Částečný úspěch = poměrná náhrada. Nárok musí být uplatněn před ukončením řízení (nejpozději do 3 dnů od doručení rozhodnutí), jinak zaniká. Toto je odchylka od § 79 SŘ, který v řízení z moci úřední ponechává náklady na účastníku.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [14 Ad 1/2020 - 24](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/703294) — 20. 7. 2022
+  > „úpravu podle § 79 odst. 3 správního řádu, kdy si účastník i správní orgán nese každý své náklady, lze použít pouze jako obecné pravidlo, které vylučuje zvláštní právní úprava např. § 141 odst. 11 správního řádu pro sporné řízení a dále úprava jednotlivých právních předpisů, … nebo § 166 zákona č. 234/2014 Sb., o státní službě, … které náhradu nákladů správního řízení přiznávají procesně úspěšnému účastníku mimo jiné i v přezkumném řízení"
 
 ### § 167 — Výkon rozhodnutí
 

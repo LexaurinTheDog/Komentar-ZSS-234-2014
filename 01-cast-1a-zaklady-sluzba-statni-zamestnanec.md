@@ -237,6 +237,11 @@ Naopak **územní samosprávné celky** (obce, kraje), **veřejnoprávní korpor
 
 **Limit oborů (odst. 3).** Maximálně 3 obory pro běžné služební místo, 4 pro představeného — zabraňuje fragmentaci úkolů a zajišťuje fokus odbornosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 21/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-21-14_1) — nález, 30. 6. 2015
+  > „Z obsahu a účelu zákona, zejména pak z jeho § 5 odst. 1 vymezujícího činnosti spadající pod státní službu, lze dovodit meze, ve kterých se vláda při své nařizovací činnosti bude pohybovat. Obory služby tedy nejsou tematickou oblastí, která by se ocitala mimo obsah a účel zákona o státní službě, stejně tak nejde o otázky, u kterých by bylo možno z ústavního pořádku dovodit výhradu zákona. Posouzení toho, zda se konkrétní nařízení vlády pohybuje v mezích zákona, je pak již věcí přezkumu onoho nařízení vlády"
+
 ---
 
 ### § 6 — Státní zaměstnanec
@@ -486,6 +491,13 @@ Tyto úkoly v rámci Úřadu vlády plní **sekce pro státní službu** v čele
 
 **Zákaz konkurence (písm. d).** Pro určitá služební místa lze stanovit, že státní zaměstnanec po skončení služebního poměru nesmí být zaměstnán či podnikat v oboru, který je shodný s oborem služby — typicky regulátoři, dozorové orgány. Vyžaduje souhlas zaměstnance v dohodě o zákazu konkurence (§ 83 ZSS) a kompenzaci.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 21/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-21-14_1) — nález, 30. 6. 2015
+  > „Z ustanovení § 17 odst. 1 zákona o státní službě podle názoru Ústavního soudu vyplývá, že v případě jednotlivých složek systemizace služebních úřadů se jedná o klíčový prostředek, kterým vláda může dostát své odpovědnosti ústavně zakotveného vrcholného orgánu výkonné moci za řádné fungování státní správy, jejímž personálním základem budou zaměstnanci na služebních místech klasifikovaných platovými třídami"
+- *NSS* [7 Ads 409/2021 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713904) — 25. 8. 2023
+  > „Z této judikatury vyplývá, že rozhodnutí o systemizaci je závazným podkladem pro rozhodování ve věcech služby ve smyslu § 75 odst. 2 větě druhé soudního řádu správního. Při jeho přezkumu však správní soudy musí zachovávat zdrženlivost. Jsou pouze oprávněny posoudit, zda tyto podklady byly schváleny zákonným způsobem, zda sledovaly legitimní cíl a zda neexistovaly konkrétní okolnosti svědčící o účelovosti zvoleného postupu či o šikanózním nebo diskriminačním jednání služebního orgánu"
+
 ### § 18 — Změna systemizace
 
 Změnu systemizace **schvaluje Úřad vlády** (odst. 3), nikoli vláda — to umožňuje **operativní pružnost**. Avšak změny **významnější** (přesun více než jedné platové třídy dolů nebo dvou nahoru, změny počtu míst, objemu prostředků) jsou **přípustné jen při změně působnosti úřadu nebo podstatné změně podmínek** (odst. 2) — zábrana proti svévolné personální politice.
@@ -495,6 +507,13 @@ Změnu systemizace **schvaluje Úřad vlády** (odst. 3), nikoli vláda — to u
 Organizační strukturu (rozdělení úřadu na sekce, odbory, oddělení) schvaluje **státní tajemník** v ministerstvu/ÚV, jinak **služební orgán nadřízeného úřadu nebo vedoucí služebního úřadu** (odst. 2). U **regulátorů a nezávislých úřadů** (ÚOHS, ČTÚ, ERÚ, ÚOOÚ, ČSÚ, SÚJB aj.) si strukturu schvaluje **ten, kdo stojí v čele** úřadu — vyjádření Úřadu vlády se nepoužije (odst. 4). Tím je respektována jejich nezávislost.
 
 **Charakteristika služebního místa (odst. 6).** Písemný dokument vypracovaný služebním orgánem v součinnosti s nadřízeným představeným — obsahuje **popis místa, popis činností**, případně popis povinností. Je předáván žadateli o přijetí v rámci výběrového řízení (§ 30a odst. 2) a slouží jako referenční rámec při hodnocení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Ads 409/2021 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713904) — 25. 8. 2023
+  > „Nejvyšší správní soud se již opakovaně zabýval otázkou soudního přezkumu systemizace a organizační struktury služebního úřadu schválených podle § 17 a § 19 zákona č. 234/2014 Sb., o státní službě … Z této judikatury vyplývá, že rozhodnutí o systemizaci je závazným podkladem pro rozhodování ve věcech služby ve smyslu § 75 odst. 2 větě druhé soudního řádu správního. Při jeho přezkumu však správní soudy musí zachovávat zdrženlivost"
+- *NSS* [5 As 5/2024 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721742) — 24. 5. 2024
+  > „Pokud jsou systemizace a změna organizace interními organizačními akty mající obecnou povahu – míří na řádné fungování veřejné správy jako celku, nemohou mířit též na konkrétní osoby, tj. na stěžovatele, jakkoli lze připustit, že v daném čase byla jeho osoba určitelná"
 
 ---
 
@@ -528,6 +547,11 @@ Toto pravidlo je v souladu s eurokonformním výkladem směrnice 1999/70/ES o pr
 **Výklad:**
 
 Ústavně-loajální klauzule. Předpoklad je **prospektivní** („lze předpokládat") — nehodnotí se historie, nýbrž důvodný předpoklad budoucího chování. Podkladem je **bezúhonnost** (§ 25 odst. 1 písm. d), **profesní reference**, **úspěch ve výběrovém řízení**. Aplikuje se zejména při hraničních případech (např. žadatel s evidencí extremistických aktivit, byť bez trestního odsouzení).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 21/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-21-14_1) — nález, 30. 6. 2015
+  > „Účel napadeného ustanovení je zjevný, a to zajistit loajalitu zaměstnanců veřejné služby vůči státu, resp. vůči ústavnímu systému a ústavním principům. … Základem pro přijetí do služebního poměru tedy nemůže být v podmínkách materiálního právního státu subjektivní neprůkazná či ničím neomezená domněnka orgánu veřejné moci … Naopak rozhodnutí o přijetí do služebního poměru musí vycházet se skutkového stavu zjištěného zákonnými důkazními prostředky, musí být řádně odůvodněné a navíc podléhá soudnímu přezkumu"
 
 #### § 23 — Rozhodnutí o přijetí
 
@@ -609,6 +633,11 @@ Toto pravidlo je v souladu s eurokonformním výkladem směrnice 1999/70/ES o pr
 **Výklad:**
 
 **Šest měsíců** — delší než typická zkušební doba v pracovním poměru (3 měsíce). Účelem je ověření odbornosti a osobnostních předpokladů, **rovněž s ohledem na povinnost vykonat obecnou část úřednické zkoušky do 9 měsíců**. Prodlužuje se o dny překážek ve službě.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Ads 245/2024 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740819) — 16. 4. 2025
+  > „Pro výklad prezentovaný stěžovatelkou, tj. že se na její případ zkušební doba podle § 29 odst. 2 zákona o státní službě s ohledem na její smysl a účel uplatnit neměla, tedy zákon o státní službě neposkytoval žádný prostor; tento výklad by byl v přímém rozporu se zněním § 29 odst. 2 zákona. Je na zákonodárci, aby stanovil pravidla týkající se zkušební doby při vzniku služebního poměru, což jednoznačně učinil. Bylo tedy povinností služebního orgánu v rámci rozhodnutí o přijetí do služebního poměru stanovit stěžovatelce zkušební dobu podle § 29 odst. 2 zákona o státní službě"
 
 #### § 30, § 30a — Obsah rozhodnutí a informační povinnost
 
